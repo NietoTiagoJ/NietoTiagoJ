@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](C:\Users\tiago\Desktop\Projects\NietoTiagoJ\R.jpeg)
+![Nieto Tiago Banner](https://github.com/NietoTiagoJ/NietoTiagoJ/blob/main/R.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Tiago Nieto</h2>
 
